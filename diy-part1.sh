@@ -29,3 +29,5 @@ git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 # echo "luci-app-openclash" >> .git/info/sparse-checkout
 # git pull origin master
 # git branch --set-upstream-to=origin/master master
+
+sed -i '$a src-git lean https://github.com/coolsnowwolf/lede' feeds.conf.default
