@@ -9,7 +9,8 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 
 
 # Add a feed source
-src-git lienol https://github.com/Lienol/openwrt-package
+# src-git lienol https://github.com/Lienol/openwrt-package
+src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git OpenAppFilter https://github.com/destan19/OpenAppFilter
 # src-git luci_app_mentohust https://github.com/BoringCat/luci-app-mentohust.git
 # src-git mentohust https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git
