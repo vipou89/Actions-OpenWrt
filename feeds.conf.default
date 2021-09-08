@@ -10,10 +10,11 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 
 # Add a feed source
 # src-git lienol https://github.com/Lienol/openwrt-package
+
 src-git kenzo https://github.com/kenzok8/openwrt-packages
+# {
+# src-git openclash https://github.com/vernesong/OpenClash.git
+# src-git helloworld https://github.com/fw876/helloworld
+# src-git passwall https://github.com/xiaorouji/openwrt-passwall
+# }
 src-git OpenAppFilter https://github.com/destan19/OpenAppFilter
-src-git openclash https://github.com/vernesong/OpenClash.git
-# echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-src-git helloworld https://github.com/fw876/helloworld
-# echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-src-git passwall https://github.com/xiaorouji/openwrt-passwall
