@@ -16,6 +16,6 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 # src-git openclash https://github.com/vernesong/OpenClash.git
 # kenzo 的仓库里面不包含依赖，手动添加原仓库
 src-git helloworld https://github.com/fw876/helloworld
-src-git passwall https://github.com/xiaorouji/openwrt-passwall
+# src-git passwall https://github.com/xiaorouji/openwrt-passwall
 # }
 src-git OpenAppFilter https://github.com/destan19/OpenAppFilter
