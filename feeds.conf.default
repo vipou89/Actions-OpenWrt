@@ -1,5 +1,5 @@
-src-git cpackages https://github.com/coolsnowwolf/packages
-src-git cluci https://github.com/coolsnowwolf/luci
+#src-git cpackages https://github.com/coolsnowwolf/packages
+#src-git cluci https://github.com/coolsnowwolf/luci
 #src-git routing https://github.com/coolsnowwolf/routing
 #src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git video https://github.com/openwrt/video.git
@@ -18,4 +18,4 @@ src-git-full telephony https://git.openwrt.org/feed/telephony.git
 
 #src-git kenzo https://github.com/kenzok8/openwrt-packages
 #src-git small https://github.com/kenzok8/small
-#src-git small8 https://github.com/kenzok8/small-package
+src-git small8 https://github.com/kenzok8/small-package
